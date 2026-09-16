@@ -1,11 +1,11 @@
- WEDE_POE_-PART-2-ST10442162 (Mpshadi Mahlatse Mokabane)
+** WEDE_POE_-PART-2-ST10442162 (Mpshadi Mahlatse Mokabane)**
  Brew & Bean Artisan Coffee — Project README
 
 A warm, community-focused website for Brew & Bean Artisan Coffee, a fictional artisan coffee shop founded in 2018. This project showcases a fully responsive, multi-page café website with a consistent design system, soft coffee-inspired colour palette, embedded Google Map, and interactive menu filtering.
 
 ---
 
-Project Structure
+**Project Structure**
 
 ```
 brewandbean/
@@ -39,13 +39,13 @@ brewandbean/
 | Muted Brown | `4f3d32` | Secondary body text |
 | Border Sand | `ddd1c2` | Inputs, dividers |
 
- Typography
+ **Typography**
 
 - Font: [Inter](https://fonts.google.com/specimen/Inter) (weights 400–700) via Google Fonts
 - Headings use tight letter-spacing (`-0.02em` to `-0.03em`)
 - Body text uses a warm brown (`4f3d32`) for readability on cream backgrounds
 
- Backgrounds
+ **Backgrounds**
 
 Every major section is assigned a distinct soft background colour to create visual rhythm and separation:
 - `.bg-cream` — base sections
@@ -56,7 +56,7 @@ Every major section is assigned a distinct soft background colour to create visu
 
 ---
 
-Page Breakdown
+**Page Breakdown**
 
  `index.html` — Home
 - Hero:"Good coffee. Great community." with two CTAs (Explore menu / See events)
@@ -91,7 +91,7 @@ Page Breakdown
 
 ---
 
-Map Integration
+**Map Integration**
 
 The contact page (`contact.html`) includes a live Google Maps embed:
 
@@ -112,7 +112,7 @@ Styled with `.map-wrapper` (rounded corners, shadow, responsive height 200–240
 
 ---
 
- JavaScript Features (`script.js`)
+** JavaScript Features (`script.js`)**
 
 | Feature | Description |
 |---------|-------------|
@@ -160,7 +160,7 @@ Grid system:
 
 ---
 
-Getting Started
+**Getting Started**
 
 1. **Clone / download** the project folder.
 2. Ensure all files are in the same directory:
@@ -173,7 +173,7 @@ Getting Started
 
 ---
 
- Customisation Guide
+** Customisation Guide**
 
 | Want to change… | Edit… |
 |-----------------|-------|
@@ -186,7 +186,7 @@ Getting Started
 
 ---
 
-Browser Support
+**Browser Support**
 
 -  Chrome / Edge (latest)
 -  Firefox (latest)
@@ -197,10 +197,10 @@ Uses `backdrop-filter` (header blur) — gracefully degrades on older browsers.
 
 ---
 
-
-- The **footer on `index.html`** is intentionally left as a placeholder comment (`<!-- Footer content -->`) — copy the footer block from any other page to complete it.
+**
+- The footer on index.html is intentionally left as a placeholder comment (`<!-- Footer content -->`) — copy the footer block from any other page to complete it.
 - Placeholder contact details (`+27 00 000 0000`, `hello@brewandbeancoffee.com`, "Your local neighbourhood café") should be replaced with real business info before publishing.
-- Images are loaded from **Unsplash** — replace with licensed/own photography for production.
+- Images are loaded from Unsplash — replace with licensed/own photography for production.
 
 ---
 
