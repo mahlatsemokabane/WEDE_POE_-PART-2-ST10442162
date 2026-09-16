@@ -1,4 +1,4 @@
-# WEDE_POE_-PART-2-ST10442162
+# WEDE_POE_-PART-2-ST10442162 (Mpshadi Mahlatse Mokabane)
 #  Brew & Bean Artisan Coffee — Project README
 
 A warm, community-focused website for **Brew & Bean Artisan Coffee**, a fictional artisan coffee shop founded in 2018. This project showcases a fully responsive, multi-page café website with a consistent design system, soft coffee-inspired colour palette, embedded Google Map, and interactive menu filtering.
@@ -59,7 +59,7 @@ Every major section is assigned a distinct soft background colour to create visu
 
 ---
 
-## 📄 Page Breakdown
+## Page Breakdown
 
 ### `index.html` — Home
 - **Hero:** "Good coffee. Great community." with two CTAs (Explore menu / See events)
@@ -135,7 +135,7 @@ filterBtn.addEventListener('click', () => {
 
 ---
 
-## 📱 Responsive Design
+## Responsive Design
 
 | Breakpoint | Behaviour |
 |------------|-----------|
